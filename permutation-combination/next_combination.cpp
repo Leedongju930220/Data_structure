@@ -19,5 +19,3 @@ int main(){
     return 0;  
 }  
 
-
-출처: http://alhena.tistory.com/43 [ALHENA'S WORLD]
