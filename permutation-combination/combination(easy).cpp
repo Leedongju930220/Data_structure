@@ -2,7 +2,7 @@
 
 int num[9];
 int N = 8;
-
+// 8 conbination 4
 void combi(int p, int d){
 	if (d == 4){
 		for (int i = 1; i <= 8; i++){
